@@ -6,7 +6,7 @@ You can see a example here it [here](https://github.com/Vokuar/template-webpage.
 <br />
 It's very simple
 If you do not currently have a github account sign up a github account
-Then make a new Repo called <website-name>.io
+Then make a new Repo called \<website-name\>.io
 Then in settings go to pages and deploy a page from a branch
 Then make a index.html in the root folder as seen in the example
 And fill it with HTML code of your choice 
