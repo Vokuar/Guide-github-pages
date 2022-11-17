@@ -2,7 +2,7 @@
 This is a guide to set up a github pages site 
 <br />
 [This is a example site](https://vokuar.github.io/template-webpage.io/) 
-You can see a example here it [here](https://github.com/Vokuar/template-webpage.io) 
+You can see a example Repo [here](https://github.com/Vokuar/template-webpage.io) 
 <br />
 It's very simple
 If you do not currently have a github account sign up a github account
