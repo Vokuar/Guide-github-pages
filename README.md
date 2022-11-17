@@ -10,3 +10,5 @@ Then make a new Repo called \<website-name\>.io
 Then in settings go to pages and deploy a page from a branch
 Then make a index.html in the root folder as seen in the example
 And fill it with HTML code of your choice 
+<br />
+Go [here](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site) for more information 
